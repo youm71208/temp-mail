@@ -1,0 +1,6 @@
+{
+  "name": "Postlet",
+  "description": "Disposable temporary email inbox powered by mail.tm with browser session persistence, auto-polling, and OTP code extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
